@@ -1,5 +1,5 @@
 # Operations Analytics & Data Quality
-**Portfolio prepared for Teja Manjusree Koduru · SQL · Python · KPI reporting**
+**Portfolio prepared using· SQL · Python · KPI reporting**
 
 An end-to-end, reproducible demonstration of checking delivery records before calculating operational KPIs. This connects quality-assurance thinking with analytics: define rules, quarantine ambiguous records, preserve an audit trail, and explain the business denominator.
 
