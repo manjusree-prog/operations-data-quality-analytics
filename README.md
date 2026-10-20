@@ -3,7 +3,7 @@
 
 An end-to-end, reproducible demonstration of checking delivery records before calculating operational KPIs. This connects quality-assurance thinking with analytics: define rules, quarantine ambiguous records, preserve an audit trail, and explain the business denominator.
 
-**Transparency:** this project was created with AI assistance as a portfolio learning project. All records are fictional, generated with seed 42. It is not work performed for Flink, RMSI or any other employer, and is not the original master's thesis. Review and understand the implementation before presenting it in an interview.
+**Transparency:**  All records are synthetic data, generated with seed 42. It is not work performed for Flink or any other employer.
 
 ## Open the results
 - [Dashboard](outputs/dashboard.html) — download/open locally; GitHub displays HTML source rather than rendering the dashboard.
