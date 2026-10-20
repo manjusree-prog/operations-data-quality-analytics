@@ -3,7 +3,7 @@
 
 An end-to-end, reproducible demonstration of checking delivery records before calculating operational KPIs. This connects quality-assurance thinking with analytics: define rules, quarantine ambiguous records, preserve an audit trail, and explain the business denominator.
 
-**Transparency:**  All records are synthetic data, generated with seed 42. It is not work performed for Flink or any other employer.
+**Transparency:**  All records are synthetic data, generated with seed 42. It is not work performed for any other employer.
 
 ## Open the results
 - [Dashboard](outputs/dashboard.html) — download/open locally; GitHub displays HTML source rather than rendering the dashboard.
@@ -56,6 +56,3 @@ For a real use case, first confirm the source contract and timezone policy, asse
 
 ## Optional Power BI extension
 Import `outputs/clean_orders.csv`, `outputs/daily_trends.csv` and `outputs/operations_kpis.csv`. Use the provided [build guide and DAX](docs/POWER_BI.md). **No Power BI `.pbix` file is included or claimed.** The HTML report is already runnable.
-
-## Interview walkthrough
-Explain why a cancelled order is excluded from the on-time denominator, why both duplicate rows are rejected, how quarantine can introduce bias, and why a simulated hub gap does not prove a cause. Then change a quality rule and rerun the tests and pipeline.
