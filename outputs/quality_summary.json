@@ -1,0 +1,15 @@
+{
+  "input_rows": 1201,
+  "accepted_rows": 1194,
+  "rejected_rows": 7,
+  "rejected_row_pct": 0.58,
+  "issue_count": 7,
+  "issues_by_rule": {
+    "invalid_hub": 1,
+    "invalid_revenue": 1,
+    "invalid_timestamp": 1,
+    "invalid_status": 1,
+    "missing_delivery_time": 1,
+    "duplicate_order_id": 2
+  }
+}

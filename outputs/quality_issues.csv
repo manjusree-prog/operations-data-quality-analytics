@@ -1,0 +1,8 @@
+source_row,order_id,rule
+6,O00005,invalid_hub
+16,O00015,invalid_revenue
+26,O00025,invalid_timestamp
+36,O00035,invalid_status
+46,O00045,missing_delivery_time
+102,O00101,duplicate_order_id
+1202,O00101,duplicate_order_id
